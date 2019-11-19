@@ -1,5 +1,5 @@
 {
-  "games":[
+  "games": [
     {
       "id": 1,
       "type": "1",
@@ -9,7 +9,10 @@
       "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
       "away": "Chelsea",
       "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
-      "selected": {"market_id": 12, "list_id": 3},
+      "selected": {
+        "market_id": 12,
+        "list_id": 3
+      },
       "markets": [
         {
           "id": 12,
@@ -18,27 +21,27 @@
             {
               "id": 2,
               "title": "1",
-              "odd": 3.0
+              "odd": 3
             },
             {
               "id": 3,
               "title": "2",
-              "odd": 3.0
+              "odd": 3
             },
             {
               "id": 4,
               "title": "1X",
-              "odd": 3.0
+              "odd": 3
             },
             {
               "id": 5,
               "title": "X",
-              "odd": 3.0
+              "odd": 3
             },
             {
               "id": 6,
               "title": "X1",
-              "odd": 3.0
+              "odd": 3
             }
           ]
         },
@@ -49,7 +52,7 @@
             {
               "id": 7,
               "title": "1:1",
-              "odd": 30.0
+              "odd": 30
             }
           ]
         }
