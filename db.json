@@ -1,0 +1,56 @@
+{
+  "games":[{
+      "id": 1,
+      "type": "1",
+      "league": "Premier League",
+      "datetime": "2019-11-14 06:40:00",
+      "home": "Manachester United",
+      "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+      "away": "Chelsea",
+      "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+      "selected": {"market_id": 12, "list_id": 3},
+      "markets": [
+        {
+          "id": 12,
+          "title": "Direct",
+          "list": [
+            {
+              "id": 2,
+              "title": "1",
+              "odd": 3.0
+            },
+            {
+              "id": 3,
+              "title": "2",
+              "odd": 3.0
+            },
+            {
+              "title": "1X",
+              "odd": 3.0
+            },
+            {
+              "id": 4,
+              "title": "X",
+              "odd": 3.0
+            },
+            {
+              "id": 5,
+              "title": "X1",
+              "odd": 3.0
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "title": "Corrct Score",
+          "list": [
+            {
+              "id": 7,
+              "title": "1:1",
+              "odd": 30.0
+            }
+          ]
+        },
+      ]
+    }]
+}
