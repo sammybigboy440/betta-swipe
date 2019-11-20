@@ -10,14 +10,14 @@
       "away": "Chelsea",
       "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
       "selected": {
-        "market_id": 12,
-        "list_id": 3
+        "group": 12,
+        "market": 3
       },
-      "markets": [
+      "group": [
         {
           "id": 12,
           "title": "Direct",
-          "list": [
+          "market": [
             {
               "id": 2,
               "title": "1",
