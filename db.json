@@ -17,7 +17,7 @@
         {
           "id": 12,
           "title": "Direct",
-          "market": [
+          "markets": [
             {
               "id": 2,
               "title": "1",
