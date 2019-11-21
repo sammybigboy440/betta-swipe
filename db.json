@@ -1,62 +1,446 @@
 {
-  "games": [
-    {
-      "id": 1,
-      "type": "1",
-      "league": "Premier League",
-      "datetime": "2019-11-14 06:40:00",
-      "home": "Manachester United",
-      "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
-      "away": "Chelsea",
-      "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
-      "selected": {
-        "group": 12,
-        "market": 3
-      },
-      "group": [
-        {
-          "id": 12,
-          "title": "Direct",
-          "markets": [
-            {
-              "id": 2,
-              "title": "1",
-              "odd": 3
+    "games": [{
+        "id": 1,
+        "type": "1",
+        "league": "Premier League",
+        "datetime": "2019-11-14 06:40:00",
+        "home": "Manachester United",
+        "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+        "away": "Chelsea",
+        "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+        "selected": {
+            "group": 12,
+            "market": 3
+        },
+        "group": [{
+                "id": 12,
+                "title": "Direct",
+                "markets": [{
+                        "id": 2,
+                        "title": "1",
+                        "odd": 3
+                    },
+                    {
+                        "id": 3,
+                        "title": "2",
+                        "odd": 3
+                    },
+                    {
+                        "id": 4,
+                        "title": "1X",
+                        "odd": 3
+                    },
+                    {
+                        "id": 5,
+                        "title": "X",
+                        "odd": 3
+                    },
+                    {
+                        "id": 6,
+                        "title": "X1",
+                        "odd": 3
+                    }
+                ]
             },
             {
-              "id": 3,
-              "title": "2",
-              "odd": 3
-            },
-            {
-              "id": 4,
-              "title": "1X",
-              "odd": 3
-            },
-            {
-              "id": 5,
-              "title": "X",
-              "odd": 3
-            },
-            {
-              "id": 6,
-              "title": "X1",
-              "odd": 3
+                "id": 14,
+                "title": "Corrct Score",
+                "list": [{
+                    "id": 7,
+                    "title": "1:1",
+                    "odd": 30
+                }]
             }
-          ]
+        ]
+    }, {
+        "id": 2,
+        "type": "1",
+        "league": "Premier League",
+        "datetime": "2019-11-14 06:40:00",
+        "home": "Manachester United",
+        "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+        "away": "Chelsea",
+        "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+        "selected": {
+            "group": 12,
+            "market": 3
+        },
+        "group": [{
+                "id": 12,
+                "title": "Direct",
+                "markets": [{
+                        "id": 2,
+                        "title": "1",
+                        "odd": 3
+                    },
+                    {
+                        "id": 3,
+                        "title": "2",
+                        "odd": 3
+                    },
+                    {
+                        "id": 4,
+                        "title": "1X",
+                        "odd": 3
+                    },
+                    {
+                        "id": 5,
+                        "title": "X",
+                        "odd": 3
+                    },
+                    {
+                        "id": 6,
+                        "title": "X1",
+                        "odd": 3
+                    }
+                ]
+            },
+            {
+                "id": 14,
+                "title": "Corrct Score",
+                "list": [{
+                    "id": 7,
+                    "title": "1:1",
+                    "odd": 30
+                }]
+            }
+        ]
+    }, {
+        "id": 3,
+        "type": "1",
+        "league": "Premier League",
+        "datetime": "2019-11-14 06:40:00",
+        "home": "Manachester United",
+        "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+        "away": "Chelsea",
+        "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+        "selected": {
+            "group": 12,
+            "market": 3
+        },
+        "group": [{
+                "id": 12,
+                "title": "Direct",
+                "markets": [{
+                        "id": 2,
+                        "title": "1",
+                        "odd": 3
+                    },
+                    {
+                        "id": 3,
+                        "title": "2",
+                        "odd": 3
+                    },
+                    {
+                        "id": 4,
+                        "title": "1X",
+                        "odd": 3
+                    },
+                    {
+                        "id": 5,
+                        "title": "X",
+                        "odd": 3
+                    },
+                    {
+                        "id": 6,
+                        "title": "X1",
+                        "odd": 3
+                    }
+                ]
+            },
+            {
+                "id": 14,
+                "title": "Corrct Score",
+                "list": [{
+                    "id": 7,
+                    "title": "1:1",
+                    "odd": 30
+                }]
+            }
+        ]
+    }, {
+        "id": 4,
+        "type": "1",
+        "league": "Premier League",
+        "datetime": "2019-11-14 06:40:00",
+        "home": "Manachester United",
+        "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+        "away": "Chelsea",
+        "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+        "selected": {
+            "group": 12,
+            "market": 3
+        },
+        "group": [{
+                "id": 12,
+                "title": "Direct",
+                "markets": [{
+                        "id": 2,
+                        "title": "1",
+                        "odd": 3
+                    },
+                    {
+                        "id": 3,
+                        "title": "2",
+                        "odd": 3
+                    },
+                    {
+                        "id": 4,
+                        "title": "1X",
+                        "odd": 3
+                    },
+                    {
+                        "id": 5,
+                        "title": "X",
+                        "odd": 3
+                    },
+                    {
+                        "id": 6,
+                        "title": "X1",
+                        "odd": 3
+                    }
+                ]
+            },
+            {
+                "id": 14,
+                "title": "Corrct Score",
+                "list": [{
+                    "id": 7,
+                    "title": "1:1",
+                    "odd": 30
+                }]
+            }
+        ]
+    }],
+    "leagues": [{
+            "id": 1,
+            "title": "Premier League",
+            "logo": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+            "games": [{
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                },
+                {
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                },
+                {
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                },
+                {
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                }
+            ]
         },
         {
-          "id": 14,
-          "title": "Corrct Score",
-          "list": [
-            {
-              "id": 7,
-              "title": "1:1",
-              "odd": 30
-            }
-          ]
+            "id": 1,
+            "title": "Premier League",
+            "logo": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+            "games": [{
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                },
+                {
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                },
+                {
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                },
+                {
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Premier League",
+            "logo": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+            "games": [{
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                },
+                {
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                },
+                {
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                },
+                {
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Premier League",
+            "logo": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+            "games": [{
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                },
+                {
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                },
+                {
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                },
+                {
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Premier League",
+            "logo": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+            "games": [{
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                },
+                {
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                },
+                {
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                },
+                {
+                    "id": 1,
+                    "type": "1",
+                    "league": "Premier League",
+                    "datetime": "2019-11-14 06:40:00",
+                    "home": "Manachester United",
+                    "home_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png",
+                    "away": "Chelsea",
+                    "away_pic": "https://www.countries-ofthe-world.com/flags-normal/flag-of-Afghanistan.png"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
